@@ -40,4 +40,12 @@
         app:layout_anchorGravity="top|center_horizontal"
         android:layout_gravity="bottom|center_horizontal" />
 
+    <TextView
+        android:text="Тест текст"
+        android:layout_width="125dp"
+        android:layout_height="104dp"
+        android:id="@+id/textView2"
+        app:layout_anchorGravity="center_vertical|right"
+        android:layout_gravity="center_vertical|left" />
+
 </android.support.design.widget.CoordinatorLayout>
