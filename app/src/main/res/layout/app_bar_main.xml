@@ -41,7 +41,7 @@
         android:layout_gravity="bottom|center_horizontal" />
 
     <TextView
-        android:text="Тест текст"
+        android:text="Тест текст 2"
         android:layout_width="125dp"
         android:layout_height="104dp"
         android:id="@+id/textView2"
